@@ -150,7 +150,7 @@ class StockTradingSystem {
 
         tradingSystem.stockMarket.addStock(new Stock("AAPL", 120.0, 10));
         tradingSystem.stockMarket.addStock(new Stock("GOOGLE", 2500.0, 5));
-        tradingSystem.stockMarket.addStock(new Stock("MSFT", 310.0, 8));
+        tradingSystem.stockMarket.addStock(new Stock("AKG", 310.0, 8));
 
         // Displaying initial portfolio
 
